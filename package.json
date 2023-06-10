@@ -16,7 +16,7 @@
   "dependencies": {
     "tailwindcss": "^1.4.6",
     "@theme-ui/tailwind": "^0.3.0",
-    "gatsby": "^2.21.21",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-postcss": "^2.3.1",
     "gatsby-plugin-theme-ui": "^0.3.0",
     "react": "^16.12.0",
